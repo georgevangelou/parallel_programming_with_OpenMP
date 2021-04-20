@@ -3,7 +3,7 @@
 This repository lists 4 problems solved using C. Each problem has its own serial and parallel implementations. For the latter, the [OpenMP](https://www.openmp.org/) API was utilized.
 The source code of this repository was developed for the "Parallel Programming for Machine Learning Problems" course conducted at the Department of Electrical and Computer Engineering, University of Patras, Greece.
 
-## The repository outline is as follows:
+## Contents:
 ### 1. **[K-means](https://en.wikipedia.org/wiki/K-means_clustering) serial implementation**
 ##### The algorithm
 - **Step 0:** Create N random vectors: Vec[N][Nv].
